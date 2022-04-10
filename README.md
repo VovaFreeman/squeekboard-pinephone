@@ -9,8 +9,8 @@ Create if doesn't exist.
 
 # Screenshots
 
-!(images/screen1.png)
-!(images/screen2.png)
-!(images/screen3.png)
-!(images/screen4.png)
-!(images/screen5.png)
+![1](images/screen1.png)
+![2](images/screen2.png)
+![3](images/screen3.png)
+![4](images/screen4.png)
+![5](images/screen5.png)
