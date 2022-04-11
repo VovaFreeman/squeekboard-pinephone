@@ -14,3 +14,11 @@ Create if doesn't exist.
 ![3](images/screen3.png)
 ![4](images/screen4.png)
 ![5](images/screen5.png)
+
+# References
+
+Squeekboard source
+https://gitlab.gnome.org/World/Phosh/squeekboard
+
+Layout builder
+https://developer.puri.sm/projects/squeekboard/tutorial.html
