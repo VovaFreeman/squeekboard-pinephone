@@ -6,6 +6,7 @@ An improved keyboard layout for Pinephones with Phosh.
 
 Copy **us.yaml** to **~/.local/share/sqeekboard/keyboards/terminal**.
 Create if doesn't exist.
+Copy **ru.yaml** to the same folder for an additional language layout in the terminal.
 
 # Screenshots
 
